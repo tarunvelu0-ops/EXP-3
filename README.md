@@ -39,7 +39,8 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: CIRCUIT DIAGRAM: ![Staircase Wiring Circuit Diagram](<img width="1172" height="432" alt="Screenshot 2026-10-25 222209" src="https://github.com/user-attachments/assets/516df906-d47f-413a-b900-0aaa3b282b11" />
+)
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
